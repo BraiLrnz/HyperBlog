@@ -11,5 +11,7 @@ Esta es una version remasterizada de mi repositorio.
 * Trucos bastante interesantes.
 * Entre muchas cosas mas.
 * Creado por el increible platzi team.
+* Incluye ejemplos en Win, Linux y Mac.
+* Disponible para todas las edades.
 
 Y como un amable recordatorio: **Este readme.md solo es una prueba**. Creado para ejemplo del curso. Si ves este archivo ten en cuenta que solo es un ejemplo.
